@@ -29,6 +29,11 @@ main {
     text-decoration: none;
 }
 
+.text-grey {
+    color: gray;
+}
+
+
 .importante {
     background-color: yellow;
 }
@@ -50,6 +55,9 @@ table td {
     padding: 10px;
 }
 
+#row-1 {
+    max-height: 20px;
+}
 
 #row-2,
 #row-4 {
