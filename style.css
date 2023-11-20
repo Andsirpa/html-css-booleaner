@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 80px;
+    background-image: url(./img/pattern.png);
+    background-size: contain;
+    background-color: rgb(59, 157, 255)
+}
+
+.logo {
+    max-width: 200px;
+    max-height: 50px;
+    position: relative;
+    top: 30px;
+    left: 10px;
+
+}
