@@ -2,6 +2,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
 header {
@@ -18,4 +19,39 @@ header {
     top: 30px;
     left: 10px;
 
+}
+
+main {
+    margin: 10px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.importante {
+    background-color: yellow;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+thead {
+    background-color: rgb(0, 157, 255);
+    color: white;
+    text-align: left;
+
+}
+
+table th,
+table td {
+    padding: 10px;
+}
+
+
+#row-2,
+#row-4 {
+    background-color: rgb(0, 251, 255);
 }
