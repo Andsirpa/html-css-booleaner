@@ -46,6 +46,10 @@ table {
     width: 100%;
 }
 
+.wid-50 {
+    width: 50%;
+}
+
 thead {
     background-color: rgb(0, 157, 255);
     color: white;
@@ -69,4 +73,23 @@ table td {
 
 footer {
     margin: 10px;
+}
+
+.footer-image {
+    width: 300px;
+    height: 200px;
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+
+}
+
+#graph {
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+}
+
+#monitor {
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
 }
